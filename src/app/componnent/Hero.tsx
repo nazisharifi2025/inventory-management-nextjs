@@ -2,7 +2,7 @@ import React from 'react'
 
 function Hero() {
   return (
-    <div>Hero</div>
+    <div className=' h-screen w-full flex justify-items-center items-center'>Hero</div>
   )
 }
 
