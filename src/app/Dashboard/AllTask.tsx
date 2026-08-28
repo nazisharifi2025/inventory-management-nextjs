@@ -6,8 +6,9 @@ function AllTask() {
       <div className=" border rounded-md border-gray-600 bg-stone-200/40"></div>
       <div className=" border rounded-md border-gray-600 bg-stone-200/40"></div>
       <div className=" border rounded-md border-gray-600 bg-stone-200/40"></div>
-      <div className=" border rounded-md border-gray-600 bg-stone-200/40">Merge conflig</div>
     </div>
+      <div className=" border rounded-md border-gray-600 bg-stone-200/40">Merge confligz</div>
+      <div className=" border rounded-md border-gray-600 bg-stone-200/40">Merge confligz</div>
   )
 }
 
