@@ -2,7 +2,7 @@ import React from 'react'
 
 function newComponent() {
   return (
-    <div>newComponent</div>
+    <div className=" flex items center h-screen w-full bg-gray-400">newComponent</div>
   )
 }
 
