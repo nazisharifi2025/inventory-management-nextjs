@@ -15,6 +15,8 @@ function NewFileForGit() {
         <div className='h-40 w-40 rounded-3xl border-2 border-gray-300/25'></div>
         <div className='h-40 w-40 rounded-3xl border-2 border-gray-300/25'></div>
         <div className='h-40 w-40 rounded-3xl border-2 border-gray-300/25'></div>
+        <div className='h-40 w-40 rounded-3xl border-2 border-gray-300/25'></div>
+        <div className='h-40 w-40 rounded-3xl border-2 border-gray-300/25'></div>
     </div>
   )
 }
