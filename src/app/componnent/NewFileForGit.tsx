@@ -7,7 +7,9 @@ function NewFileForGit() {
         <div className='h-40 w-40 rounded-3xl border-2 border-gray-300/25'></div>
         <div className='h-40 w-40 rounded-3xl border-2 border-gray-300/25'></div>
         <div className='h-40 w-40 rounded-3xl border-2 border-gray-300/25'></div>
-        <div className='h-40 w-40 rounded-3xl border-2 border-gray-300/25'></div>
+        <div className='h-40 w-40 rounded-3xl border-2 border-gray-300/25'>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus magnam atque odit explicabo odio quia cumque, nulla vel voluptatibus ipsum veniam fuga soluta nostrum? Nostrum veniam ex quidem nam eos.
+        </div>
         <div className='h-40 w-40 rounded-3xl border-2 border-gray-300/25'></div>
         <div className='h-40 w-40 rounded-3xl border-2 border-gray-300/25'></div>
         <div className='h-40 w-40 rounded-3xl border-2 border-gray-300/25'></div>
